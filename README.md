@@ -1,4 +1,4 @@
-# password Generator 
+# Password Generator 
 
 ## MSC CS Project
 
